@@ -87,7 +87,7 @@ SOFTWARE.
     <maven-checkstyle-plugin.version>3.2.2</maven-checkstyle-plugin.version>
     <checkstyle.version>8.15</checkstyle.version>
     <maven-surefire-plugin.version>3.0.0</maven-surefire-plugin.version>
-    <checkstyle.version>8.15</checkstyle.version>
+    <checkstyle.version>8.45.1</checkstyle.version>
     <maven-checkstyle-plugin.version>3.2.2</maven-checkstyle-plugin.version>
   </properties>
   <dependencies>
